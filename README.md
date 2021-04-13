@@ -1,8 +1,14 @@
 # SVM Hyperparameters
 
 ## To view the video
-* [Click here](https://youtu.be/fqhHBCfNy6s)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=fqhHBCfNy6s" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/fqhHBCfNy6s?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![SVM Hyperparameters](http://img.youtube.com/vi/fqhHBCfNy6s/0.jpg)](http://www.youtube.com/watch?v=fqhHBCfNy6s)
 
